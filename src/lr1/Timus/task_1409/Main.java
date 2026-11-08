@@ -1,8 +1,8 @@
-package lr1.Timus;
+package lr1.Timus.task_1409;
 
 import java.util.Scanner;
 
-public class Timus_1409
+public class Main
 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
